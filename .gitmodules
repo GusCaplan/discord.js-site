@@ -1,0 +1,4 @@
+[submodule "webpack"]
+	path = webpack
+	url = https://github.com/hydrabolt/discord.js
+	branch = webpack
